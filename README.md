@@ -92,9 +92,20 @@ I enjoy owning products end-to-end — from crafting intuitive user interfaces t
 - Long-term remote collaborations
 
 ---
+Feel free to connect if you're interested in collaboration or just want to chat! 😊
+<!----------------------------------- Social Media Links Section ------------------------------------>
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: [linkedin.com/in/usama-arshadd-eng](https://linkedin.com/in/usama-arshadd-eng)
-- 📧 Email: usamaarshad.eng@gmail.com
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+    <a href="https://linkedin.com/in/usama-arshadd-eng">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:usamaarshad.eng@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=footer"/>
+</p>
 
 ⭐️ *Clean code, ownership, and building things that scale.*
